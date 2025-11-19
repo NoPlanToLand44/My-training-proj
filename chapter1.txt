@@ -1,1 +1,2 @@
 this is a new text file i created for a first commit 
+this one accomodates change to lesser plot 
