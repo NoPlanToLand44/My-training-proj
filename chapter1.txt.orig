@@ -1,0 +1,6 @@
+this is a new text file i created for a first commit 
+<<<<<<< HEAD
+this work continues here ignoring the recent branching to a lesser plot 
+=======
+this one accomodates change to lesser plot 
+>>>>>>> lesser-plot
